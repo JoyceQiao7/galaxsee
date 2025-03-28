@@ -1,4 +1,4 @@
-import './createPost.js';
+import './createPost.tsx';
 import { Devvit, useAsync, useWebView } from '@devvit/public-api';
 import type { DevvitMessage, WebViewMessage } from './message.ts';
 
