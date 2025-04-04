@@ -18,3 +18,5 @@ Built with Devvit, Galaxsee leverages Reddit’s API for seamless user authentic
 - 🛠️ **Open to Contributions**: Whether you’re a developer or a space enthusiast, we’d love for you to help shape the universe of Galaxsee!
 
 Get started by launching Galaxsee in your subreddit, scanning for nearby galaxies, and sending your first signal. Ready to embark on this interstellar journey? Let’s make the stars a little closer together! ✨
+
+Navigate to: https://www.reddit.com/r/galaxsee_pnf_alpha/ to launch your galaxy!
